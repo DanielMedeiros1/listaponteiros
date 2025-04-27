@@ -1,2 +1,0 @@
-// *(pulo + 2); essa expressão referencia o terceiro elemento do vetor pulo, pois o vetor esta sendo deslocado em 2 posições a frente.
-// Isso é igual a pulo[2] que significa que tem valores na posição 0, 1 e 2.
